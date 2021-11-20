@@ -1,0 +1,4 @@
+1 Here is a new file for git collaborative
+
+The other line CHANGED
+
