@@ -1,0 +1,6 @@
+1 Here is a new file for git collaborative
+
+New line 1
+
+The other line
+
