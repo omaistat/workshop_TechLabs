@@ -1,6 +1,7 @@
 1 Here is a new file for git collaborative
 
-New line 1
+New line 1 jkhg
 
-The other line
+The other line CHANGED
 
+The line for conflict
